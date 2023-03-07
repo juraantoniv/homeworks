@@ -74,7 +74,7 @@ function Affairs(props: AffairsPropsType) {
                     onClick={setLow}
                     className={cnLow}
                 >
-                    Low
+                    Loww
                 </button>
             </div>
             <div className={s.affairs}>{mappedAffairs}</div>
