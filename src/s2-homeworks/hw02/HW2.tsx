@@ -61,6 +61,7 @@ function HW2() {
         setAffairs(deletedAffair)
     }
 
+
     return (
         <div id={'hw2'}>
             <div className={s2.hwTitle}>Homework #2</div>
